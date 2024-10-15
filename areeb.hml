@@ -1,0 +1,53 @@
+<html lang="en">
+
+<head>
+    <title>AREEB 2 ASSINGMENT</title>
+</head>
+
+<body>
+    <H1>WELLCOME TO MY WEBSITE</H1>
+    <h2> next page </h2>
+    <HR>
+    </HR>
+    <H2>ABOUT ME</H2>
+    <P>HY MYNAME IS <STRong> M AREEB SHEIKH</STRong> I AM A SOFTWARE ENGINEER </P>
+    <HR>
+    </HR>
+    <h3>HOBBIES</h3>
+    <p></p>
+    <ul>
+        <li>
+            Be Genuine. It's important to choose hobbies that genuinely interest you </li>
+        <li> Relevance. ...</li>
+        <li> Highlight Learning and Growth. ...
+            Keep it Concise.</li>
+        <li> Variety
+            <b>S</b>oft Skills
+        </li>
+        <li>Avoid Controversial Hobbies
+            Tailor to the Company Culture </li>
+        <li>traveling</li>
+        <li>i write a poetry </li>
+    </ul>
+    <hr>
+    <h4>GOAL FOR TIS YEAR </h4>
+    <ol>
+        <li>
+            improve my coding skills
+        </li>
+        <li>i wanna big scammer and big hacker</li>
+        <li>I want to fulfill my mother's dream</li>
+    </ol>
+    <hr>
+    <h5>CONTACT INFOMATION </h5>
+    <P>U want more information then u feel free u visit <br>
+        <abbr title=""><b>my website </b></abbr>
+    </P><br>
+    <p>or Second me email at <BR> <a href="mailto:sheikhhmareeb@gmail.com"> EMAIL 📩</a> </BR></p>
+    or callme at<a href="03178566809"> PHONE NUMBER ☎️ </a>
+    <hr>
+
+
+</body>
+
+</html>
